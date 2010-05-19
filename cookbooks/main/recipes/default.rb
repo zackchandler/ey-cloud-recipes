@@ -47,3 +47,5 @@
 #
 #uncomment to use the solr recipe
 #require_recipe "solr"
+
+require_recipe 'reflection_custom_install'
